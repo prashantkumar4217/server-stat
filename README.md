@@ -26,7 +26,7 @@ A simple Bash script that analyzes basic Linux server performance statistics.
 Clone the repository:
 
 ```bash
-git clone https://github.com/<your-username>/server-stats.git
+git clone https://github.com/prashantkumar4217/server-stat.git
 cd server-stats
 ```
 
@@ -54,6 +54,4 @@ The script displays:
 * Top resource-consuming processes
 * System information
 
-## Project URL
 
-https://roadmap.sh/projects/server-stats
