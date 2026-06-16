@@ -54,4 +54,6 @@ The script displays:
 * Top resource-consuming processes
 * System information
 
+## Project URL
 
+https://roadmap.sh/projects/server-stats
